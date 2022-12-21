@@ -6,7 +6,7 @@
         private $nacionalidade;
         private $idade;
         private $altura;
-        private $peso;
+        private $pe;
         private $categoria;
         private $vitorias;
         private $derrotas;
